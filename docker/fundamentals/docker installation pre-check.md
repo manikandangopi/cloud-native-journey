@@ -12,7 +12,7 @@ Before Installation  Docker :
                 
 1. OS & Kernel 				
 For OS= command=uname -r				
-For Kernel= cat /etc/osrelease				
+For Kernel= cat /etc/os release				
      ![alt text](image-31.png)  
 
      ![alt text](image-32.png)           
