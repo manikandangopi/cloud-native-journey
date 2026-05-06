@@ -93,7 +93,7 @@ Why: even with space, container failes if inodes are exahusted
                 
                 
 12. Firewall Check 				
-firewall check : linux command used = sudo ufw status				
+firewall chec : linux command used = sudo ufw status				
 Note: docker manipulate iptables				
    ![alt text](image-43.png)             
                 
